@@ -95,7 +95,7 @@
 
 #### DESIGN LAYOUT
 
-![](images\1556727727719.jpg)
+![](images/1556727727719.jpg)
 
  - **Reference**: 
 
@@ -112,7 +112,7 @@
  - **Resolution**: make the layout smaller, for larger canvas.
 
 #### Toolbar Layout
-![](images\1556727767462.jpg)
+![](images/1556727767462.jpg)
 
  - **Reference**: 
 
@@ -129,7 +129,7 @@
  - **Resolution**: if we change mode, like from object mode to edit mode, the tool placed on the toolbar is changed too, to even up with user needs for that mode.
 
 #### Right Bar
-![](E:\KULIAH\Semester_4\IMK\assignment-3-ginkokuryuu\images\1556727782986.jpg)
+![](images/1556727782986.jpg)
 
  - **Reference**:  -
  - **Feedback**: -
@@ -139,7 +139,7 @@
 
 #### Gizmoz
 
-![](images\1556727813072.jpg)
+![](images/1556727813072.jpg)
 
 - **Reference**: 
 
@@ -172,16 +172,14 @@
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+![](images/48210.jpg)
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+In this sketch i only add change mode button near left toolbar. and explanation that the toolbar will change according to what mode it is now.
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+> The more simple a design is, the better. And if you know that some tool will be used more often, then don't hide it, instead give it to the user right in front of their eyes. It will help them minimize the working time from searching a button over and over again.
+>
+> And if you know that your application will be used for a long term, its better to provide a dark theme to reduce stress on eyes for looking for a long timg at the screen
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+> [Link for my prototype](https://projects.invisionapp.com/share/4ZROM5WYXKB#/screens)
