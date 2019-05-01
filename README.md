@@ -157,7 +157,7 @@
 
 #### Top Information Bar
 
-![](images\1556727802516.jpg)
+![](images/1556727802516.jpg)
 
 - **Reference**:  -
 - **Feedback**: -
